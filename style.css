@@ -1,0 +1,15 @@
+header {
+    color: rgb(201, 0, 0);
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+article {
+    color: rgb(121, 50, 37);
+    background-color: antiquewhite;
+}
+
+aside {
+    color:rgb(121, 50, 37);
+    background-color: antiquewhite;
+}
